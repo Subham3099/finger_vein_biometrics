@@ -1,9 +1,9 @@
-#Project: Finger Vein Biometrics using HSV Color Range Masking and SIFT in Python
+# Project: Finger Vein Biometrics using HSV Color Range Masking and SIFT in Python
 
-#Description:
+# Description:
 Developed a robust biometric authentication system using finger vein recognition by combining HSV color range masking and Scale-Invariant Feature Transform (SIFT) techniques. The project aimed to enhance security and accuracy in user authentication by leveraging unique vein patterns in finger images.
 
-#Key Contributions:
+# Key Contributions:
 
 Implemented an innovative approach to extract finger vein features by utilizing HSV color range masking. This technique effectively isolated vein patterns from complex finger images, improving subsequent processing accuracy.
 
@@ -13,10 +13,10 @@ Developed a comprehensive Python-based software solution that seamlessly combine
 
 Conducted thorough testing and evaluation of the system using a diverse dataset, showcasing its effectiveness in accurately recognizing individuals based on their unique finger vein patterns.
 
-#Technologies Used:
+# Technologies Used:
 Python, OpenCV, HSV Color Range Masking, SIFT (Scale-Invariant Feature Transform)
 
-#Achievements:
+# Achievements:
 
 Successfully created an end-to-end finger vein biometrics system that demonstrated improved accuracy compared to traditional methods, highlighting the effectiveness of the combined approach.
 
